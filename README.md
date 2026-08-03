@@ -1,18 +1,194 @@
-# 💫 About Me:
-👨🏻‍🎓Software engineer with a focus on developing innovative solutions to real-world problems<br>👨🏻‍💻Currently working on my own project - a Smart CCTV system that uses AI and computer vision<br>👨🏼‍🏫Passionate about expanding my programming skills by learning new languages and technologies<br>🖥Proficient in Python,C++,Javascript,C#,HTML,CSS and excited to add more to my toolkit<br>💪🏽Believe in the power of collaboration and teamwork to build great software<br>📽I make youtube videos as my free time where I do coding <br>✔️Let's work together to create innovative solutions and make a positive impact!<br>📧 umendran6@gmail.com
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/um3n14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umendran-muniandy-1982b5261/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/um3n14) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@um3n14) 
+# 👋 Hey, I'm Umendran
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Building+Nightlife+🍸;Flutter+%7C+Next.js+%7C+Laravel;AI+%2B+Cloud+Enthusiast;Always+Learning+Something+New" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Umen14&theme=dark&hide_border=false)<br/>
+<br>
 
+<p>
+Building products that solve real-world problems with clean code, scalable architecture and a little bit of creativity.
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Umen14&style=for-the-badge&color=blue"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Umen14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 Current Mission
+
+```text
+██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗
+██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝
+██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ███╗
+██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║   ██║
+██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██████╔╝
+╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝
+```
+
+🍸 **Nightlife**
+
+An all-in-one nightlife platform connecting clubs, bars and customers through:
+
+- 🎉 Events
+- 🍾 Table Reservations
+- 🎟 Promotions
+- 📱 Flutter Mobile App
+- 💼 Business Dashboard
+- 🤖 AI Features
+- 📊 Analytics
+
+> Turning nightlife into a connected digital ecosystem.
+
+---
+
+# 💻 Tech Arsenal
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,nextjs,react,ts,js,html,css,tailwind"/>
+</p>
+
+### ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,php,python,dotnet"/>
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
+</p>
+
+### ☁ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,cloudflare"/>
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,firebase"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Umen14&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Umen14&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umen14&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# ⚡ Currently Working On
+
+```bash
+> Building Flutter App.............. ██████████ 100%
+
+> Backend APIs...................... ██████████ 100%
+
+> AI Integration.................... ████████░░ 80%
+
+> Business Dashboard................ █████████░ 90%
+
+> Production Deployment............. ███████░░░ 70%
+```
+
+---
+
+# 📈 2026 Goals
+
+- 🚀 Launch Nightlife
+- 📱 Publish Android App
+- 🍎 Publish iOS App
+- 🤖 Build AI-powered features
+- 🌍 Reach users across Malaysia
+- ⭐ Contribute more to Open Source
+
+---
+
+# ☕ Developer Console
+
+```javascript
+const umendran = {
+
+    location: "Malaysia 🇲🇾",
+
+    role: "Software Engineer",
+
+    currentProject: "Nightlife",
+
+    currentlyLearning: [
+        "Flutter",
+        "AI",
+        "Cloud Infrastructure"
+    ],
+
+    motto: "Build. Learn. Repeat."
+}
+
+while (alive) {
+
+    code();
+
+    build();
+
+    deploy();
+
+    improve();
+
+}
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/umendran-muniandy-1982b5261/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://instagram.com/um3n14">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://youtube.com/@um3n14">
+<img src="https://skillicons.dev/icons?i=youtube"/>
+</a>
+
+<a href="mailto:umendran6@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for stopping by!
+
+*"Great software isn't built overnight. It's built one commit at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+
+</div>
+````
