@@ -1,194 +1,189 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Umendran
+# Hi 👋 I'm Umendran Muniandy
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Building+Nightlife+🍸;Flutter+%7C+Next.js+%7C+Laravel;AI+%2B+Cloud+Enthusiast;Always+Learning+Something+New" />
-
-<br>
+### Full Stack Software Engineer from Malaysia 🇲🇾
 
 <p>
-Building products that solve real-world problems with clean code, scalable architecture and a little bit of creativity.
+I enjoy building scalable software, exploring AI, and continuously learning new technologies.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Umen14&style=for-the-badge&color=blue"/>
+<p>
+<a href="https://github.com/Umen14">
+<img src="https://img.shields.io/github/followers/Umen14?label=Followers&style=for-the-badge&color=0A66C2"/>
+</a>
+
+<a href="mailto:umendran6@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-# 🚀 Current Mission
+# 💻 About Me
 
-```text
-██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗
-██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝
-██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ███╗
-██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║   ██║
-██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██████╔╝
-╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝
+```bash
+> whoami
+
+Umendran Muniandy
+
+> role
+
+Full Stack Software Engineer
+
+> location
+
+Malaysia 🇲🇾
+
+> interests
+
+• Web Development
+• Mobile Development
+• Artificial Intelligence
+• Cloud Computing
+• DevOps
+
+> currently
+
+Building software.
+Learning every day.
+Always improving.
 ```
 
-🍸 **Nightlife**
-
-An all-in-one nightlife platform connecting clubs, bars and customers through:
-
-- 🎉 Events
-- 🍾 Table Reservations
-- 🎟 Promotions
-- 📱 Flutter Mobile App
-- 💼 Business Dashboard
-- 🤖 AI Features
-- 📊 Analytics
-
-> Turning nightlife into a connected digital ecosystem.
-
 ---
 
-# 💻 Tech Arsenal
+# 🚀 Tech Stack
 
-### 🎨 Frontend
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,nextjs,react,ts,js,html,css,tailwind"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,php"/>
 </p>
 
-### ⚙ Backend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,php,python,dotnet"/>
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,html,css,tailwind"/>
 </p>
 
-### 🗄 Database
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,dotnet"/>
 </p>
 
-### ☁ Cloud & DevOps
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,cloudflare"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis"/>
 </p>
 
-### 🛠 Tools
+### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,firebase"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,githubactions,git,cloudflare,firebase"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Umen14&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Umen14&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umen14&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# ⚡ Currently Working On
+# 🏆 GitHub Trophies
 
-```bash
-> Building Flutter App.............. ██████████ 100%
+<div align="center">
 
-> Backend APIs...................... ██████████ 100%
+<img src="https://github-profile-trophy.vercel.app/?username=Umen14&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-> AI Integration.................... ████████░░ 80%
+</div>
 
-> Business Dashboard................ █████████░ 90%
+---
 
-> Production Deployment............. ███████░░░ 70%
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Umen14&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# ⚡ What I Enjoy
+
+```text
+💻 Full Stack Development
+
+📱 Mobile Applications
+
+🤖 Artificial Intelligence
+
+☁ Cloud Infrastructure
+
+🐳 Docker & DevOps
+
+🎯 Solving Real World Problems
 ```
 
 ---
 
-# 📈 2026 Goals
+# 🌎 Connect With Me
 
-- 🚀 Launch Nightlife
-- 📱 Publish Android App
-- 🍎 Publish iOS App
-- 🤖 Build AI-powered features
-- 🌍 Reach users across Malaysia
-- ⭐ Contribute more to Open Source
-
----
-
-# ☕ Developer Console
-
-```javascript
-const umendran = {
-
-    location: "Malaysia 🇲🇾",
-
-    role: "Software Engineer",
-
-    currentProject: "Nightlife",
-
-    currentlyLearning: [
-        "Flutter",
-        "AI",
-        "Cloud Infrastructure"
-    ],
-
-    motto: "Build. Learn. Repeat."
-}
-
-while (alive) {
-
-    code();
-
-    build();
-
-    deploy();
-
-    improve();
-
-}
-```
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/umendran-muniandy-1982b5261/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/um3n14">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://youtube.com/@um3n14">
-<img src="https://skillicons.dev/icons?i=youtube"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="mailto:umendran6@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for stopping by!
+### 💡 Favorite Quote
 
-*"Great software isn't built overnight. It's built one commit at a time."*
+> *"Code is not just written. It is designed, refined and continuously improved."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+---
+
+⭐ Thanks for visiting my profile!
 
 </div>
 ````
